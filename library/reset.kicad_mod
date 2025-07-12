@@ -1,0 +1,317 @@
+(footprint "reset"
+	(version 20241229)
+	(generator "pcbnew")
+	(generator_version "9.0")
+	(layer "F.Cu")
+	(descr "Ultra-small-sized Tactile Switch with High Contact Reliability, Top-actuated Model, without Ground Terminal, without Boss")
+	(tags "Tactile Switch")
+	(property "Reference" "RESET"
+		(at -3.050468 0 270)
+		(layer "F.SilkS" knockout)
+		(uuid "94f5e17b-dcc4-41d9-acc7-aae58444b56e")
+		(effects
+			(font
+				(face "Corbel")
+				(size 1 0.75)
+				(thickness 0.1875)
+				(bold yes)
+			)
+		)
+		(render_cache "RESET" 90
+			(polygon
+				(pts
+					(xy -2.635468 1.046702) (xy -2.987177 1.233181) (xy -2.987177 1.319277) (xy -2.635468 1.319277)
+					(xy -2.635468 1.445306) (xy -3.549913 1.445306) (xy -3.549913 1.236845) (xy -3.549629 1.229792)
+					(xy -3.409229 1.229792) (xy -3.409229 1.319277) (xy -3.127861 1.319277) (xy -3.127861 1.257407)
+					(xy -3.13299 1.184546) (xy -3.13978 1.155938) (xy -3.148439 1.134217) (xy -3.172352 1.101023) (xy -3.200951 1.081781)
+					(xy -3.23617 1.070964) (xy -3.27746 1.067218) (xy -3.312929 1.07019) (xy -3.342978 1.078713) (xy -3.367849 1.093689)
+					(xy -3.38798 1.117822) (xy -3.397107 1.137053) (xy -3.404039 1.162839) (xy -3.409229 1.229792)
+					(xy -3.549629 1.229792) (xy -3.547871 1.186044) (xy -3.542036 1.140582) (xy -3.531731 1.097801)
+					(xy -3.518344 1.064241) (xy -3.493696 1.026126) (xy -3.463179 0.9954) (xy -3.426692 0.971047) (xy -3.384238 0.953291)
+					(xy -3.33397 0.942188) (xy -3.27404 0.938258) (xy -3.211859 0.942885) (xy -3.158114 0.956184) (xy -3.111069 0.977962)
+					(xy -3.072094 1.007519) (xy -3.038887 1.047632) (xy -3.011907 1.100695) (xy -3.009159 1.100695)
+					(xy -2.635468 0.897225)
+				)
+			)
+			(polygon
+				(pts
+					(xy -2.776151 0.660554) (xy -2.776151 0.323453) (xy -2.635468 0.323453) (xy -2.635468 0.786583)
+					(xy -3.549913 0.786583) (xy -3.549913 0.341863) (xy -3.409229 0.341863) (xy -3.409229 0.660554)
+					(xy -3.174756 0.660554) (xy -3.174756 0.386971) (xy -3.034072 0.386971) (xy -3.034072 0.660554)
+				)
+			)
+			(polygon
+				(pts
+					(xy -2.898517 -0.146179) (xy -2.930791 -0.142786) (xy -2.954693 -0.133403) (xy -2.973856 -0.11868)
+					(xy -2.989803 -0.098644) (xy -3.011907 -0.049322) (xy -3.028637 0.00815) (xy -3.056237 0.084308)
+					(xy -3.075555 0.118777) (xy -3.100506 0.148193) (xy -3.132439 0.172825) (xy -3.172435 0.192111)
+					(xy -3.219424 0.204057) (xy -3.281429 0.20846) (xy -3.350541 0.203433) (xy -3.407153 0.189318)
+					(xy -3.456328 0.166531) (xy -3.495691 0.137248) (xy -3.52609 0.102) (xy -3.548142 0.060449) (xy -3.560994 0.014889)
+					(xy -3.565544 -0.038331) (xy -3.562041 -0.093096) (xy -3.551439 -0.148469) (xy -3.534681 -0.201643)
+					(xy -3.515169 -0.24377) (xy -3.374058 -0.24377) (xy -3.397408 -0.19071) (xy -3.41277 -0.141554)
+					(xy -3.421949 -0.093255) (xy -3.42486 -0.049597) (xy -3.420971 -0.008723) (xy -3.41051 0.022428)
+					(xy -3.394757 0.045932) (xy -3.371662 0.064425) (xy -3.342286 0.075551) (xy -3.304571 0.0795) (xy -3.271938 0.07658)
+					(xy -3.247296 0.068555) (xy -3.226965 0.055789) (xy -3.210171 0.038788) (xy -3.197221 0.018979)
+					(xy -3.186663 -0.004442) (xy -3.170359 -0.056329) (xy -3.142027 -0.139035) (xy -3.122596 -0.17666)
+					(xy -3.097392 -0.208965) (xy -3.064645 -0.236211) (xy -3.022837 -0.257325) (xy -2.972923 -0.270304)
+					(xy -2.905295 -0.27514) (xy -2.856861 -0.272702) (xy -2.814706 -0.265757) (xy -2.777861 -0.254669)
+					(xy -2.728821 -0.22996) (xy -2.688957 -0.196555) (xy -2.659024 -0.155983) (xy -2.636872 -0.105192)
+					(xy -2.624256 -0.049956) (xy -2.619836 0.012638) (xy -2.623479 0.068105) (xy -2.634368 0.122548)
+					(xy -2.652665 0.173788) (xy -2.675279 0.212444) (xy -2.81523 0.212444) (xy -2.790153 0.161639)
+					(xy -2.773526 0.113572) (xy -2.763804 0.064877) (xy -2.76052 0.01415) (xy -2.766992 -0.044239)
+					(xy -2.775993 -0.071873) (xy -2.789218 -0.095713) (xy -2.807855 -0.116378) (xy -2.8319 -0.132349)
+					(xy -2.861237 -0.142551)
+				)
+			)
+			(polygon
+				(pts
+					(xy -2.776151 -0.54112) (xy -2.776151 -0.878221) (xy -2.635468 -0.878221) (xy -2.635468 -0.415091)
+					(xy -3.549913 -0.415091) (xy -3.549913 -0.859811) (xy -3.409229 -0.859811) (xy -3.409229 -0.54112)
+					(xy -3.174756 -0.54112) (xy -3.174756 -0.814703) (xy -3.034072 -0.814703) (xy -3.034072 -0.54112)
+				)
+			)
+			(polygon
+				(pts
+					(xy -2.635468 -1.292167) (xy -2.635468 -1.166138) (xy -3.409229 -1.166138) (xy -3.409229 -0.944808)
+					(xy -3.549913 -0.944808) (xy -3.549913 -1.512947) (xy -3.409229 -1.512947) (xy -3.409229 -1.292167)
+				)
+			)
+		)
+	)
+	(property "Value" "reset"
+		(at -0.000001 2.500002 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "6a8b56e0-56c8-4324-887d-c9f6b65e358e")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "05e0bb85-cf74-43dd-938d-8da644c7ee9c")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "b425a15f-eb07-4987-b354-5c7dd792b0df")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr smd)
+	(fp_line
+		(start -1.650002 1.100001)
+		(end -1.65 1.4)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "32778a76-9555-4760-88d5-e8462b0b4006")
+	)
+	(fp_line
+		(start -1.650001 -1.100001)
+		(end -1.65 -1.4)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "ea951396-b8a8-4d76-9904-4520ae2fce63")
+	)
+	(fp_line
+		(start -1.65 -1.4)
+		(end 1.65 -1.4)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "42bc0adc-2645-4899-90af-3808ef2ff3f4")
+	)
+	(fp_line
+		(start -1.65 1.4)
+		(end 1.65 1.4)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "5f90e7fa-6940-4989-8d40-2c3db3a6d4fe")
+	)
+	(fp_line
+		(start 1.65 -1.4)
+		(end 1.650002 -1.100001)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "053c7ecc-af2c-43f5-8baf-7dd32aea509f")
+	)
+	(fp_line
+		(start 1.65 1.4)
+		(end 1.650001 1.100001)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "620589f2-8b91-4027-a613-b661e0633866")
+	)
+	(fp_line
+		(start -2.4 -1.65)
+		(end -2.4 1.649998)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "30b9f097-5f63-4d3e-b18a-e8428ff4c6a8")
+	)
+	(fp_line
+		(start -2.4 1.649998)
+		(end 2.4 1.65)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "34e65c12-ba9c-476b-b531-27b6d6574e99")
+	)
+	(fp_line
+		(start 2.4 -1.649998)
+		(end -2.4 -1.65)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "42e2a52f-48cd-4cc0-a258-33a6b488b03a")
+	)
+	(fp_line
+		(start 2.4 1.65)
+		(end 2.4 -1.649998)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "635921ba-1ae0-4c5a-9aba-f5c9d89c7df9")
+	)
+	(fp_line
+		(start -1.5 -1.25)
+		(end 1.499999 -1.25)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "d3a3b8eb-dbd4-4808-885b-cd57302884e4")
+	)
+	(fp_line
+		(start -1.499999 1.25)
+		(end -1.5 -1.25)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "d42ad46a-be72-4c7b-b83a-fa1ce1e707ea")
+	)
+	(fp_line
+		(start 1.499999 -1.25)
+		(end 1.5 1.25)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "41376980-afb0-4cd5-8acb-daa2b4e45bc2")
+	)
+	(fp_line
+		(start 1.5 1.25)
+		(end -1.499999 1.25)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "d16c3660-b9d3-430c-9e27-6fbec2cbf764")
+	)
+	(fp_circle
+		(center 0 0)
+		(end 0.75 0)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(fill no)
+		(layer "F.Fab")
+		(uuid "1812a30d-02c5-4582-95e6-a08ed5412fba")
+	)
+	(pad "1" smd rect
+		(at -1.699999 0.000001)
+		(size 0.9 1.7)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(teardrops
+			(best_length_ratio 0.5)
+			(max_length 1)
+			(best_width_ratio 1)
+			(max_width 2)
+			(curved_edges no)
+			(filter_ratio 0.9)
+			(enabled yes)
+			(allow_two_segments yes)
+			(prefer_zone_connections yes)
+		)
+		(uuid "c22669fe-e48e-4962-a54b-9ab4ad946916")
+	)
+	(pad "2" smd rect
+		(at 1.699999 -0.000001)
+		(size 0.9 1.7)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(teardrops
+			(best_length_ratio 0.5)
+			(max_length 1)
+			(best_width_ratio 1)
+			(max_width 2)
+			(curved_edges no)
+			(filter_ratio 0.9)
+			(enabled yes)
+			(allow_two_segments yes)
+			(prefer_zone_connections yes)
+		)
+		(uuid "4043dcaa-35ab-4dd6-9eab-4c087d9e0004")
+	)
+	(embedded_fonts no)
+	(model "${KICAD9_3DMODEL_DIR}/Button_Switch_SMD.3dshapes/SW_SPST_B3U-1000P.wrl"
+		(offset
+			(xyz 0 0 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz 0 0 0)
+		)
+	)
+)

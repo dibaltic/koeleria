@@ -1,0 +1,16 @@
+## Recommended settings to order the PCB 
+- Base Material- FR-4
+- Layers-  2
+- PCB QTY- 5 -> your choice
+- Different Design- 2
+- Delivery Format- Single PCB
+- PCB Thickness- 1.6
+- PCB Color- Personal preference
+- Silkscreen- Personal preference
+- Surface Finish- Personal preference
+- Outer Copper Weight- 1oz
+- Confirm Production file- No
+- Mark on PCB- Personal preference
+- Gold Fingers- No
+- Castellated Holes- No
+- Edge Plating- No

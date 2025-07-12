@@ -1,0 +1,99 @@
+meta:
+  engine: 4.1.0
+units:
+  kx: cx
+  ky: cy
+  px: kx + 4
+  py: ky + 4
+points:
+  zones:
+    matrix:
+      anchor:
+        shift: [175,-160]
+        rotate: 0
+      key:
+        padding: 1ky
+        spread: 1ky
+      columns:
+        pinky:
+          rows:
+            bottom.skip: true
+        ring:
+          key.splay: -12
+          key.origin: [-9, -9]
+          key.stagger: 12
+        middle:
+          key.splay: -5
+          key.origin: [-9, -21]
+          key.stagger: 5
+        index:
+          key.splay: -0.01
+          key.origin: [-9, -6000]
+          key.stagger: -9
+        inner:
+          key.splay: -0.01
+          key.origin: [-9,-6000]
+          key.stagger: 9
+          rows:
+            top.skip: true
+      rows:
+        bottom:
+        home:
+        top:
+    thumbs:
+      key:
+        padding: 1ky
+        spread: 1ky
+      anchor:
+        ref: matrix_index_bottom
+        shift: [17 , -25]
+      columns:
+        inner:
+          key.splay: -15
+        space: 
+          key:
+            splay: -4
+            shift: [1.65,-.5]
+      rows:
+        thumb:
+  rotate:
+  mirror: &mirror
+    ref: matrix_inner_home
+    distance: 3kx
+    shift: [0,-400]
+outlines:
+  raw:
+    - what: rectangle
+      where: true
+      bound: true
+      size: [px, py]
+  keys:
+    - what: rectangle
+      where: true
+      bound: false
+      size: [kx-.5 ,ky-.5]
+combo:
+    - name: board
+    - operation: subtract
+      name: keys   
+pcbs:
+  Koeleria:
+    footprints:
+      choc_hotswap:
+        what: choc
+        where: true
+        params:
+          keycaps: true
+          reverse: false
+          hotswap: true
+          from: "{{column_net}}"
+          to: "{{colrow}}"
+      diode:
+        what: diode
+        where: true
+        params:
+          from: "{{colrow}}"
+          to: "{{row_net}}"
+        adjust:
+          shift: [0,-5]
+          rotate: 0
