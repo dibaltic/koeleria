@@ -1,8 +1,7 @@
 # Split Case Pictures
-![CaseTop](https://github.com/user-attachments/assets/3dc20dfa-31fa-438f-9971-ad719efed3fd)
-![SideProfile](https://github.com/user-attachments/assets/60715e27-5852-4b8c-8bbe-569bb10a8d50)
-![CaseBottom](https://github.com/user-attachments/assets/4ac66da5-8c2c-490e-bd38-6632281b1d8d)
-
+![CaseTop](https://github.com/user-attachments/assets/e149576f-dd6c-4341-8f21-e8a57e665f89)
+![SideProfile](https://github.com/user-attachments/assets/a92261e1-f4bd-4375-919d-bbd096f930f9)
+![CaseBottom](https://github.com/user-attachments/assets/77d5338f-86ed-4d96-be33-f04f919321a3)
 
 # Features
 - Enclosed MCU with 3d files supporting use of displays and no displays
