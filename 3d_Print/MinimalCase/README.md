@@ -1,11 +1,6 @@
 # Minimal Case Pictures
-![MinimalAndEnclosed](https://github.com/user-attachments/assets/4de87322-18e2-420d-b88c-aec290dd0d2c)
-![MinimalSide](https://github.com/user-attachments/assets/a384bf4d-de3d-44b1-adac-454e0a07e0cc)
-
-
-
-
-
+![MinimalAndEnclosed](https://github.com/user-attachments/assets/b926ca63-a942-488f-8c79-f618cb6c66cd)
+![MinimalSide](https://github.com/user-attachments/assets/6621949c-0ffd-4860-a2a8-83555c2f6197)
 
 # Features
 - Thin minimal case with no switch plate or mcu enclosure
