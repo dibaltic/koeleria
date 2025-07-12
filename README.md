@@ -1,8 +1,6 @@
 # Koeleria
-![WithWithoutDisplay](https://github.com/user-attachments/assets/fc0226d4-2839-4319-b71d-65a62185d94b)
-![CaseAngled](https://github.com/user-attachments/assets/2737f720-7f22-4d7e-846a-cafac888e786)
-
-
+![WithWithoutDisplay](https://github.com/user-attachments/assets/5347cd2f-4a27-462e-baf8-eca12eb88b1e)
+![CaseAngled](https://github.com/user-attachments/assets/0bfdc4cd-698e-405d-8b22-49ff9c37bad5)
 
 ## Features
 - 30 keys with splay and column stagger
@@ -13,8 +11,7 @@
 - Cases are designed to be low profile with recessed adhesive feet
 - A variety of cases can be found in the [3d_Print](https://github.com/dibaltic/koeleria/tree/main/3d_Print) folder. Including enclosed split, minimal split, unibody, storage case, and variety of tenting angles.
 
-![SideProfile](https://github.com/user-attachments/assets/c72b2ca9-5cad-4500-b71c-48445e6634a1)
-
+![SideProfile](https://github.com/user-attachments/assets/614cac45-85cc-46bd-b43b-31ca0139accf)
 
 ### Design
 
@@ -28,15 +25,13 @@
 
 - All the files for the keyboard and cases have been shared if you would like to modify anything to better suit your needs.
 
-![MinimalAndEnclosed](https://github.com/user-attachments/assets/4f8c4bd8-2b66-4404-9fb4-7520e709768f)
-
-
+![MinimalAndEnclosed](https://github.com/user-attachments/assets/760fe2ae-94a4-4ea8-9469-4ce1ab3aa450)
 
 # B.O.M 
 
 #### Required
 
-- 1x PCB pair
+- 1x PCB pair (production files can be found [here](https://github.com/dibaltic/koeleria/tree/main/PCB/Gerbers))
 - 30x Kailh Choc V1 switches
 - 30x Key caps
 - 30x Kailh Choc hotswap sockets (no direct switch soldering support)
@@ -66,13 +61,13 @@ For dongle setup. This saves on battery life, but requires an additional MCU. Fo
 
 # Pictures
   
-![UnibodyAndSplit](https://github.com/user-attachments/assets/fa1e2079-ffe7-4855-9f5c-019f3f3ad02b)
+![UnibodyAndSplit](https://github.com/user-attachments/assets/e3c732be-fe4b-47aa-b1e0-4b68c8897239)
 
-![StorageCase](https://github.com/user-attachments/assets/c2ef729e-6549-4894-925c-ff22f33dfb73)
+![StorageCase](https://github.com/user-attachments/assets/79d888dd-06cd-4064-9e58-624c3f688894)
 
-![StorageCase3](https://github.com/user-attachments/assets/47e49586-ff1b-4ce4-8ce8-bce28560d9a1)
+![StorageCase3](https://github.com/user-attachments/assets/59144883-f654-477b-be90-566f0af0812a)
 
-![MinimalSide](https://github.com/user-attachments/assets/4a96faf1-6235-441d-81c7-1a1eabe0d4eb)
+![MinimalSide](https://github.com/user-attachments/assets/b97098fb-1001-44b1-a889-45fa9a3ba729)
 
 # Inspirations and Credit
 I took inspiration from the [Urchin](https://github.com/duckyb/urchin), [Sweep](https://github.com/davidphilipbarr/Sweep), and [Luna](https://github.com/mindhatch/keyboards). I used footprints from the Urchin, and used [ergogen](https://ergogen.ceoloide.com/) to get the physical key placement configured before designing the rest in Kicad and Freecad.
