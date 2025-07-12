@@ -1,7 +1,6 @@
 # Unibody Case Pictures
-
-![Unibody](https://github.com/user-attachments/assets/64298d22-72dc-4980-9294-7e0390a672bf)
-![UnibodyAndSplit](https://github.com/user-attachments/assets/12f7a853-165e-4b28-8427-416869223d10)
+![Unibody](https://github.com/user-attachments/assets/f7a15425-83bd-4d16-a4e2-dcce80dd2e99)
+![UnibodyAndSplit](https://github.com/user-attachments/assets/83fead5e-14a8-4989-9f00-708d95247612)
 
 # Features
 - Enclosed MCU with 3d files supporting use of displays and no displays
