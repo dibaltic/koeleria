@@ -17,7 +17,7 @@
 
 - My first ergo keyboard was an MX Sweep, and then shortly after a wireless Choc Sweep. I wanted my thumbs less tucked, to use my pinky less, and reach less with my index finger. I also wanted to have the option for a display. 
 
-- My goal was to make keyboard to be low profile as I could. The case adds 1mm in height to the PCB. There is a total of 1.5mm added height with the specified silicone feet installed on the case.
+- My goal was to make keyboard to be as low profile as I could. The case adds 1mm in height to the PCB. There is a total of 1.5mm added height with the specified silicone feet installed on the case.
 
 - In the majority of the photos I am using [KLP Lamé](https://github.com/braindefender/KLP-Lame-Keycaps) keycaps with LSDA profile thumbs, but the case was designed around clearing normal keycaps as you can see in the photos of the unibody case with a full set LSDA keycaps installed.
 
