@@ -35,7 +35,7 @@
 - 30x Kailh Choc hotswap sockets (no direct switch soldering support)
 - 30x SMD diodes 1n4148w (SOD-123)
 - 2x nice!nano
-- 2x battery (301230)
+- 2x batteries (301230)
 - 2x female headers (mcu sockets)
 - 48x header pins (mill-max or other solution)
 
@@ -49,13 +49,7 @@
 
 # Firmware
 
-For standard setup
-
--https://github.com/dibaltic/zmk_koeleria
-
-For dongle setup. This saves on battery life, but requires an additional MCU. For more information on dongles in ZMK please refer to the [ZMK docs](https://zmk.dev/docs/development/hardware-integration/dongle)
-
--https://github.com/dibaltic/zmk_koeleria_dongle
+-[zmk_koeleria](https://github.com/dibaltic/zmk_koeleria)
 
 # Pictures
   
