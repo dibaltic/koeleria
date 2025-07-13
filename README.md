@@ -49,7 +49,7 @@
 
 # Firmware
 
--[zmk_koeleria](https://github.com/dibaltic/zmk_koeleria)
+- [zmk_koeleria](https://github.com/dibaltic/zmk_koeleria)
 
 # Pictures
   
