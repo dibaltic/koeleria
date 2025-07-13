@@ -4,7 +4,7 @@
 
 ## Features
 - 30 keys with splay and column stagger
-- nice!nano and nice!view
+- nice!view and nice!nano
 - Hotswap sockets, no direct solder option for switches
 - Low profile Choc V1 switches with Choc spacing
 - Exclusively wireless using [ZMK firmware](https://zmk.dev/)
